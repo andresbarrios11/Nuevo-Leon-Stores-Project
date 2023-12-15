@@ -19,9 +19,9 @@ Steps 3:
 Visualizing the data in Tableau by creating a dashboard containing information about the location of the stores and the population of that particular place. Developed the variable of people per store to identify stores with higher population densities.
 
 Dashboard contains the following visualizations:
-Heat map showcasing the location of stores as well as people per store by Ageb aiming to help identify potential stores with higher traffic
-Bar chart showcasing people per store by Ageb aiming to help identify how people per store is distributed by Ageb
-Data table showcasing number of stores, population, and people per store by Ageb aiming to show some numbers that are shown in the previous two visualizations
-Pie chart showcasing the distribution of stores by municipality
-Data table showcasing the number of stores, population, and people per store by municipality aiming to provide key information at the level of municipalities
+Heat map showcasing the location of stores as well as people per store by Ageb aiming to help identify potential stores with higher traffic.
+Bar chart showcasing people per store by Ageb aiming to help identify how people per store is distributed by Ageb.
+Data table showcasing number of stores, population, and people per store by Ageb aiming to show some numbers that are shown in the previous two visualizations.
+Pie chart showcasing the distribution of stores by municipality.
+Data table showcasing the number of stores, population, and people per store by municipality aiming to provide key information at the level of municipalities.
 
