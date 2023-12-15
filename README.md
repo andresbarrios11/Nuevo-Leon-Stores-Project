@@ -1,5 +1,6 @@
 # Nuevo-Leon-Stores-Project
 Objective: Develop a Tableau Dashboard with key insights about stores selling different kinds of consumer products in Nuevo Leon, Monterrey. 
+
 Steps 1:
 Obtaining dataset from the DENUE API containing all stores selling beer, wine, cigarettes, non-alcoholic drinks, and ice in Nuevo Leon, Monterrey.
 
