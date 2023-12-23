@@ -25,5 +25,4 @@ Data table showcasing number of stores, population, and people per store by Ageb
 Pie chart showcasing the distribution of stores by municipality.
 Data table showcasing the number of stores, population, and people per store by municipality aiming to provide key information at the level of municipalities.
 
-Link to the Tableau Public Dashboard: https://public.tableau.com/app/profile/andres.barrios.uribe/viz/TiendasNuevoLeonDraft2/DashboardAnalyticsNivelAgeb?publish=yes
-
+Link to the Tableau Public Dashboard: https://public.tableau.com/authoring/NuevoLeonConsumerProductsStores/DashboardAnalyticsNivelAgeb#1
